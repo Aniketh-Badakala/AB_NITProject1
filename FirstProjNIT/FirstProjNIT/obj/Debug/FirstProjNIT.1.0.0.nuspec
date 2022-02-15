@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FirstProjNIT</id>
+    <version>1.0.0</version>
+    <authors>FirstProjNIT</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\bin\Debug\net5.0\FirstProjNIT.runtimeconfig.json" target="lib\net5.0\FirstProjNIT.runtimeconfig.json" />
+    <file src="F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\bin\Debug\net5.0\FirstProjNIT.dll" target="lib\net5.0\FirstProjNIT.dll" />
+  </files>
+</package>

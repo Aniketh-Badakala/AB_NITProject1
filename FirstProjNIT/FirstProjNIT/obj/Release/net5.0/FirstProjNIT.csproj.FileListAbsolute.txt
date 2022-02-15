@@ -1,0 +1,16 @@
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\bin\Release\net5.0\FirstProjNIT.exe
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\bin\Release\net5.0\FirstProjNIT.deps.json
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\bin\Release\net5.0\FirstProjNIT.runtimeconfig.json
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\bin\Release\net5.0\FirstProjNIT.runtimeconfig.dev.json
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\bin\Release\net5.0\FirstProjNIT.dll
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\bin\Release\net5.0\ref\FirstProjNIT.dll
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\bin\Release\net5.0\FirstProjNIT.pdb
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\obj\Release\net5.0\FirstProjNIT.csproj.AssemblyReference.cache
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\obj\Release\net5.0\FirstProjNIT.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\obj\Release\net5.0\FirstProjNIT.AssemblyInfoInputs.cache
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\obj\Release\net5.0\FirstProjNIT.AssemblyInfo.cs
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\obj\Release\net5.0\FirstProjNIT.csproj.CoreCompileInputs.cache
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\obj\Release\net5.0\FirstProjNIT.dll
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\obj\Release\net5.0\ref\FirstProjNIT.dll
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\obj\Release\net5.0\FirstProjNIT.pdb
+F:\csharpcode\VSCode\FirstProjNIT\FirstProjNIT\obj\Release\net5.0\FirstProjNIT.genruntimeconfig.cache
