@@ -1,5 +1,0 @@
-F:\csharpcode\VSCode-Publish\FirstProjNIT.exe
-F:\csharpcode\VSCode-Publish\FirstProjNIT.dll
-F:\csharpcode\VSCode-Publish\FirstProjNIT.deps.json
-F:\csharpcode\VSCode-Publish\FirstProjNIT.runtimeconfig.json
-F:\csharpcode\VSCode-Publish\FirstProjNIT.pdb
